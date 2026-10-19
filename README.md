@@ -120,9 +120,4 @@ because the measure only uses each day's centre code.
 Hebrail, G. & Berard, A. (2006). *Individual Household Electric Power Consumption*
 [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C58K54
 
-## Acknowledgements
-
-Developed with guidance from an AI assistant (Claude); all experiments were run,
-checked and interpreted by me.
-
 Author: Zaki Ahmed
